@@ -1,0 +1,10 @@
+C:/Users/suisideboy/source/repos/opengltest2/build/CMakeFiles/opengltest2.dir
+C:/Users/suisideboy/source/repos/opengltest2/build/CMakeFiles/INSTALL.dir
+C:/Users/suisideboy/source/repos/opengltest2/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/suisideboy/source/repos/opengltest2/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/suisideboy/source/repos/opengltest2/build/external/glfw/CMakeFiles/uninstall.dir
+C:/Users/suisideboy/source/repos/opengltest2/build/external/glfw/CMakeFiles/INSTALL.dir
+C:/Users/suisideboy/source/repos/opengltest2/build/external/glfw/CMakeFiles/ALL_BUILD.dir
+C:/Users/suisideboy/source/repos/opengltest2/build/external/glfw/src/CMakeFiles/glfw.dir
+C:/Users/suisideboy/source/repos/opengltest2/build/external/glfw/src/CMakeFiles/update_mappings.dir
+C:/Users/suisideboy/source/repos/opengltest2/build/external/glfw/src/CMakeFiles/INSTALL.dir
