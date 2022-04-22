@@ -30,7 +30,7 @@ int main(void)
         std::cout<<"Can't load GLAD!"<<std::endl;
         return -1;
     }
-    std::cout << "Renderer: " << glGetString(GL_RENDER) << std::endl;
+    std::cout << "Renderer: " << glGetString(GL_RENDERER) << std::endl;
     std::cout << "OpenGL version " << glGetString(GL_VERSION) << std::endl;
     
     glClearColor(0.3,0.5,0.6,1);
